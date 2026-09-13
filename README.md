@@ -38,7 +38,3 @@ Predicting the right price for a used car is essential for profitability, custom
 - How should model performance be measured?  
 - What patterns emerge from analyzing distributions and correlations?  
 
----
-
-## 📂 Project Structure
-
