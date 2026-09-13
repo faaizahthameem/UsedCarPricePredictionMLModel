@@ -38,3 +38,18 @@ Predicting the right price for a used car is essential for profitability, custom
 - How should model performance be measured?  
 - What patterns emerge from analyzing distributions and correlations?  
 
+---
+
+## Tech Stack
+
+- Python  
+- Pandas, NumPy  
+- Scikit‑learn  
+- Matplotlib, Seaborn  
+
+---
+
+## Model Output
+
+The final model predicts continuous price values with minimized error, offering interpretable and reliable pricing guidance for used‑car inventory.
+
