@@ -45,8 +45,10 @@ Predicting the right price for a used car is essential for profitability, custom
 - Python  
 - Pandas, NumPy  
 - Scikit‑learn  
-- Matplotlib, Seaborn  
-
+- Matplotlib, Seaborn
+- Regression Algorithms(Linear, Ridge, Lasso, Decision Tree and Random Forest Regressors)
+- Metrics: R-Squared score and RMSE measures on Training and Test datasets.
+  
 ---
 
 ## Model Output
